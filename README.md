@@ -4,7 +4,7 @@
   Welcome to Arjun Rai's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20%20developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20%20developer;%20UI%2FUX%20Designer;Always%20learning%20new%20things%20:);Sophomore%20at%20Thapar-University&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </div>  
   
 

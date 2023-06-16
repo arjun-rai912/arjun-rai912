@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Rai</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from India</h3>
 
-https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif
+<img align = "center" width="600"  src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-rai912&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-rai912" /> </p>
 
